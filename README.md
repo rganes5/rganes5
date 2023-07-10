@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **DevOps.**
 
-- 👨‍💻 All of my projects are available at [my github repo's.](my github repo's.)
+- 👨‍💻 All of my projects are available at [[my github repo's.](my github repo's.)](https://github.com/rganes5?tab=repositories)
 
 - 💬 Ask me about **myself. LOL!**
 
