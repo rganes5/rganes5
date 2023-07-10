@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rganes5.io)
+//[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rganes5.io)
 <h1 align="center">Hi 👋, I'm Ganesh</h1>
 <h3 align="center">I code for a living!</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/74/66/34/746634fe2d718c4fc27b435eccfad584--coding-java.jpg">
@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1nLidHduTnJbJdLAlLIpnATY8LE4IS7hK/view?usp=sharing](https://drive.google.com/file/d/1nLidHduTnJbJdLAlLIpnATY8LE4IS7hK/view?usp=sharing)
 
-- ⚡ Fun fact **I think I am Batman🦇**
+- ⚡ Fun fact **I am Batman🦇**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
