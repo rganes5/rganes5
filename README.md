@@ -1,4 +1,3 @@
-//[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rganes5.io)
 <h1 align="center">Hi 👋, I'm Ganesh</h1>
 <h3 align="center">I code for a living!</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/74/66/34/746634fe2d718c4fc27b435eccfad584--coding-java.jpg">
