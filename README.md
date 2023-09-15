@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **ganeshraveendranit@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1nLidHduTnJbJdLAlLIpnATY8LE4IS7hK/view?usp=sharing](https://drive.google.com/file/d/1nLidHduTnJbJdLAlLIpnATY8LE4IS7hK/view?usp=sharing)
+- 📄 Know about my experiences [GANESH_R_CV](https://drive.google.com/file/d/1LaZnKZobb6L39_3jjUIIHJvLKWMRvTi_/view?usp=sharing)
 
 - ⚡ Fun fact **I am Batman🦇**
 
