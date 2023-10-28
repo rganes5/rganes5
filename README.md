@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at my repositories.
 
-- 📫 How to reach me **ganeshraveendranit@gmail.com**
+- 📫 How to reach me - **ganeshraveendranit@gmail.com**
 
 - 📄 Know about my experience. [GANESH_R_CV](https://drive.google.com/file/d/1TGf2kL9bveytVfIq2PBBVm809S6vB9dY/view?usp=sharing)
 
