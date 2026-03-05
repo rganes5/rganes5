@@ -5,17 +5,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rganes5&label=Profile%20views&color=0e75b6&style=flat" alt="rganes5" /> </p>
 
 
-- 🔭 I’m currently working on **Golang.**
-
-- 🌱 I’m currently learning **Microservices and DevOps**
+- 🔭 I’m currently working at Nokia on **Golang.**
 
 - 👨‍💻 All of my projects are available at my repositories.
 
 - 📫 How to reach me - **ganeshraveendranit@gmail.com**
 
 - 📄 Know about my experience - [GANESH_R_CV](https://drive.google.com/file/d/1TGf2kL9bveytVfIq2PBBVm809S6vB9dY/view?usp=sharing)
-
-- ⚡ Fun fact **I am Batman🦇**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
